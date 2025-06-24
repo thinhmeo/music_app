@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="facb75ad-e5e1-4cc0-9f09-896f342540dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/components/login/Register.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/src/components/profile/UserProfile.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="JSX File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kendunothingelse&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/thinhmeo/New_music_app.git&quot;,
+    &quot;accountId&quot;: &quot;497b3188-5695-4b8a-99e3-9a3bd0dfc542&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2xNlvJqmkPPXpHYCXQSMUi9vUXm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/donha/Documents/WebstormProjects/New_music_app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.3.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactDesignerToolWindowState">
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.intellij.reactbuddy.reactComponents" value="false" />
+        <entry key="com.intellij.reactbuddy.reactInspector" value="false" />
+        <entry key="com.intellij.reactbuddy.storybook" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\donha\Documents\WebstormProjects\New_music_app\client\src\components\login" />
+      <recent name="C:\Users\donha\Documents\WebstormProjects\New_music_app\client\src\components\music-player" />
+      <recent name="C:\Users\donha\Documents\WebstormProjects\New_music_app\client\src\components\home" />
+      <recent name="C:\Users\donha\Documents\WebstormProjects\New_music_app\client\src\components\dashboard" />
+      <recent name="C:\Users\donha\Documents\WebstormProjects\New_music_app\client\src\components\Header" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="facb75ad-e5e1-4cc0-9f09-896f342540dd" name="Changes" comment="" />
+      <created>1747786641114</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747786641114</updated>
+      <workItem from="1747786642280" duration="385000" />
+      <workItem from="1747787295524" duration="125000" />
+      <workItem from="1747873451216" duration="374000" />
+      <workItem from="1747873838420" duration="1995000" />
+      <workItem from="1747920330884" duration="472000" />
+      <workItem from="1747921049999" duration="25000" />
+      <workItem from="1748393223621" duration="1213000" />
+      <workItem from="1748394507378" duration="239000" />
+      <workItem from="1748394756987" duration="299000" />
+      <workItem from="1748395193236" duration="405000" />
+      <workItem from="1748395613097" duration="282000" />
+      <workItem from="1748396180753" duration="299000" />
+      <workItem from="1748402331335" duration="107000" />
+      <workItem from="1748402701941" duration="1721000" />
+      <workItem from="1748421093082" duration="2116000" />
+      <workItem from="1748435625426" duration="5670000" />
+      <workItem from="1748441502969" duration="996000" />
+      <workItem from="1750079553039" duration="44000" />
+      <workItem from="1750079600681" duration="1197000" />
+      <workItem from="1750081665868" duration="462000" />
+      <workItem from="1750082609247" duration="1832000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
